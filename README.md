@@ -18,6 +18,12 @@
   
 `@` - "тихий запуск" не отображается запуск команд в терминале (лучше избегать его использование).
   
+`%`  
+  
+`%.c = %.o`  
+  
+`{} ()`  
+  
 Useful Links:  
 https://makefiletutorial.com/  
 https://www.gnu.org/software/make/manual/make.html
