@@ -1,5 +1,5 @@
 # makefile
-#make #makefile  
+`${wildcard шаблон}`    
 
 
 
