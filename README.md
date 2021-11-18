@@ -1,5 +1,9 @@
 # makefile
-`${wildcard шаблон}`    
+`${wildcard шаблон}`  
+
+```
+get next
+```
 
 
 
